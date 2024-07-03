@@ -1,0 +1,28 @@
+{
+  "name": "sm1thle.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sm1thle/sm1thle.github.io.git"
+  },
+  "private": true,
+  "dependencies": {
+    "connect": "^3.7.0",
+    "serve-static": "^1.15.0",
+    "three": "^0.166.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sm1thle/sm1thle.github.io/issues"
+  },
+  "homepage": "https://github.com/Sm1thle/sm1thle.github.io#readme",
+  "devDependencies": {
+    "vite": "^5.3.3"
+  }
+}
